@@ -21,3 +21,5 @@
   <li>assets - contains all the required images (Spaceships, Lasers, Background)</li>
   <li>main.py - contains the entire code</li>
 </ol>
+
+<a href = "https://www.linkedin.com/posts/sourik-pr-kabi_python-pygame-project-activity-6697041243349815296-s3t7"> Here's a link to the demo of this project.<a>
